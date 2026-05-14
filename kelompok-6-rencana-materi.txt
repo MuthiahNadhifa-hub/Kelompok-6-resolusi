@@ -1,0 +1,9 @@
+RENCANA MATERI KELOMPOK 6
+
+- Persamaan Linear 2 variabel
+  * Menyelesaikan dengan metode grafik
+  * Menyelesaikan dengan metode eliminasi
+  * Menyelesaikan dengan metode substitusi
+- Persamaan Linear 3 variabel
+- Operasi Baris Elementer (OBE)
+- Menyelesaikan persamaan dengan metode eliminasi gauss
