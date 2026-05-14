@@ -2,5 +2,5 @@ KELOMPOK 6 RESOLUSI
 - Konsisten untuk membuat project baru setiap bulan
 - Membuat platform untuk memudahkan perhitungan matematika
 - Membuat forum diskusi
-- Membuat bimbingan online matematika
 - Kolaborasi dengan lebih banyak expert
+- Membuat channel youtube mengenai penyelesaian soal-soal matematika
