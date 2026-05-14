@@ -1,0 +1,4 @@
+KELOMPOK 6 RESOLUSI
+- Konsisten untuk membuat project baru setiap bulan
+- Membuat platform untuk memudahkan perhitungan matematika
+- Membuat forum diskusi
