@@ -2,9 +2,13 @@ RENCANA MATERI KELOMPOK 6
 
 - Persamaan Linear 2 variabel
   * Menyelesaikan dengan metode grafik
+    ^ Menggambar 2 persamaan ke dalam koordinat cartesius
+    ^ Mencari titik potong
   * Menyelesaikan dengan metode eliminasi
   * Menyelesaikan dengan metode substitusi
 - Persamaan Linear 3 variabel
 - Mengubah SPL menjadi bentuk matriks
+  ^ Menentukan matriks koefisien dan konstanta
 - Operasi Baris Elementer (OBE)
 - Menyelesaikan persamaan dengan metode eliminasi gauss
+- Membuat webiste yang dapat menyelesaikan SPL dengan metode eliminasi gauss
