@@ -5,5 +5,6 @@ RENCANA MATERI KELOMPOK 6
   * Menyelesaikan dengan metode eliminasi
   * Menyelesaikan dengan metode substitusi
 - Persamaan Linear 3 variabel
+- Mengubah SPL menjadi bentuk matriks
 - Operasi Baris Elementer (OBE)
 - Menyelesaikan persamaan dengan metode eliminasi gauss
